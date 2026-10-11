@@ -71,3 +71,8 @@ async function main() {
 }
 
 main();
+
+
+//Suggestions:
+//This bot currently generates a commit message but we would want it to be able to commit it itself
+//This model can be automated with different scripts in the future
